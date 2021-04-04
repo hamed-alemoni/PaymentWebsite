@@ -1,42 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bd8c94d9-8456-4f0a-a1a5-ffcc9d57ce84" name="Default Changelist" comment="" />
+    <list default="true" id="9eca32ad-ba17-4129-aeb3-71164360223e" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
-    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
-  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
-        <option value="HTML File" />
       </list>
     </option>
   </component>
-  <component name="ProjectId" id="1qZJYIbjrHTZGFwNo4pXVq6lICV" />
+  <component name="ProjectId" id="1qhmgjjfa7ko9XI8eE8zGWCtVcQ" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
   <component name="RunManager">
-    <configuration name="Forward_Telegram_Bot_Website" type="Python.DjangoServer" factoryName="Django server">
-      <module name="Forward_Telegram_Bot_Website" />
+    <configuration name="PaymentWebsite" type="Python.DjangoServer" factoryName="Django server">
+      <module name="PaymentWebsite" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
-        <env name="DJANGO_SETTINGS_MODULE" value="Forward_Telegram_Bot_Website.settings" />
+        <env name="DJANGO_SETTINGS_MODULE" value="PaymentWebsite.settings" />
       </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="" />
@@ -60,35 +55,16 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="bd8c94d9-8456-4f0a-a1a5-ffcc9d57ce84" name="Default Changelist" comment="" />
-      <created>1617281224543</created>
+      <changelist id="9eca32ad-ba17-4129-aeb3-71164360223e" name="Default Changelist" comment="" />
+      <created>1617540308352</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1617281224543</updated>
-      <workItem from="1617281324473" duration="3230000" />
-      <workItem from="1617532351685" duration="1143000" />
+      <updated>1617540308352</updated>
+      <workItem from="1617540309854" duration="242000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state width="1491" height="210" key="GridCell.Tab.0.bottom" timestamp="1617285161799">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1491" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1617285161799" />
-    <state width="1491" height="210" key="GridCell.Tab.0.center" timestamp="1617285161799">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1491" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1617285161799" />
-    <state width="1491" height="210" key="GridCell.Tab.0.left" timestamp="1617285161799">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1491" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1617285161799" />
-    <state width="1491" height="210" key="GridCell.Tab.0.right" timestamp="1617285161799">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1491" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1617285161799" />
   </component>
 </project>
